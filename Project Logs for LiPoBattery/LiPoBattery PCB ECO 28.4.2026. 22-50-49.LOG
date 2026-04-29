@@ -1,0 +1,20 @@
+Added Component: Designator=J(GCT-USB3105-30-A_V)
+Add component (AddParameter): Name = "Connector Mounting"; Value = "ThroughHoleMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "GoldPlatedContacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://gct.co/usb-connectors/pdf/USB3105.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 05/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://gct.co/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "5Ways"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Through Hole Device, Body 7.96 x 2.9 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "USB3105-30-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Connector Type"; Value = "MicroUSBTypeAB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Standard"; Value = "USB2.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=J-1
+Added Pin To Net: NetName=BAT+ Pin=J-5
+Added Member To Class: ClassName=LiPoBattery Member=Component J Micro Usb
