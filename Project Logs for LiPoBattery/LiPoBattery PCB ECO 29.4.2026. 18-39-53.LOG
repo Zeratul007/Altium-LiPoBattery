@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IN- Pin=C2-
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR1_2
+Added Member To Class: ClassName=LiPoBattery Member=Component Rprog 1.2k
