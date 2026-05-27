@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT+ Pin=Header-1
+Removed Pin From Net: NetName=BAT- Pin=Header-2
+Removed Member From Class: ClassName=LiPoBattery Member=Header
+Added Component: Designator=Battery Header(FP-B2B-PH-K-R_LF_SN-MFG)
+Add component (AddParameter): Name = "Contact Plating"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=Battery Header-1
+Added Pin To Net: NetName=BAT- Pin=Battery Header-2
+Added Member To Class: ClassName=LiPoBattery Member=Component Battery Header B2B-PH-K-R(LF)(SN)
