@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LiPoBattery.PrjPcb]
+   Generated File[LiPoBattery-RoundHoles-Plated.TXT]
+   Generated File[LiPoBattery-SlotHoles-Plated.TXT]
+   Generated File[LiPoBattery.LDP]
+   Generated File[LiPoBattery.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:35:16 On 8.6.2026.

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=BAT+ Pin=Battery Header-1
+Removed Pin From Net: NetName=BAT- Pin=Battery Header-2
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT95P280X145-6N"; UniqueID = "\KEWPAUFA" ("\KEWPAUFA")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FS8205"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT95P280X145-6N"; UniqueID = "\FIRGXNWI" ("\FIRGXNWI")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DW01A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOIC127P600X265-8N"; UniqueID = "\SHFLRNJY" ("\SHFLRNJY")
+Change component parameters (AddParameter): Name = "vManufacturer Part Number"; Value = "TP4056"; VariantName = "[No Variations]"
+Added Component: Designator=J(FP-B2B-PH-K_LF_SN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=J-1
+Added Pin To Net: NetName=BAT- Pin=J-2
+Added Member To Class: ClassName=LiPoBattery Member=Component  Micro USB
+Added Member To Class: ClassName=LiPoBattery Member=Component C1 100nF
+Added Member To Class: ClassName=LiPoBattery Member=Component C2 10uF
+Added Member To Class: ClassName=LiPoBattery Member=Component J Battery Header
+Added Member To Class: ClassName=LiPoBattery Member=Component R1 1k
+Added Member To Class: ClassName=LiPoBattery Member=Component R2 1k
+Added Member To Class: ClassName=LiPoBattery Member=Component Rprog 1.2k

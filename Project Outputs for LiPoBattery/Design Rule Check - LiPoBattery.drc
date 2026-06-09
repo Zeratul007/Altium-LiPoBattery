@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\hardware projects\Altium-LiPoBattery\LiPoBattery.PcbDoc
-Date     : 26.5.2026.
-Time     : 22:40:26
+Date     : 9.6.2026.
+Time     : 13:16:04
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

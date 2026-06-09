@@ -1,0 +1,14 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","10118193-0001LF","Micro USB B Type Receptacle, -55 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel","","CMP-2000-05119-1","Released","Up to date","1","Amphenol Communications Solutions","10118193-0001LF","Volume Production","RS (Formerly Allied Electronics)","10118193-0001LF","0.14","0.14"
+"","CGA3E2X8R1E104M080AA","Cap Ceramic 100nF 25V X8R 20% Pad SMD 0603 +150°C Automotive T/R","C1, C3, C4","CMP-08246-001006-1","New From Design","Up to date","3","TDK","CGA3E2X8R1E104M080AA","Volume Production","DigiKey","445-12594-6-ND","0.13","0.39"
+"","CGA4J3X5R1A106M125AB","Cap Ceramic 10uF 10V X5R 20% Pad SMD 0805 +85°C Automotive T/R","C2","CMP-08246-002209-1","New From Design","Up to date","1","TDK","CGA4J3X5R1A106M125AB","Volume Production","Newark","CGA4J3X5R1A106M125AB","0.024","0.024"
+"","LTST-C193KGKT-5A","LED GREEN CLEAR CHIP SMD","D1","CMP-2000-06622-2","New From Design","Up to date","1","Diodes Inc.","LTST-C193KGKT-5A","Volume Production","DigiKey","160-1828-6-ND","0.18","0.18"
+"","LTST-C190KRKT","LED RED CLEAR CHIP SMD","D2","CMP-1674-00011-2","New From Design","Up to date","1","Diodes Inc.","LTST-C190KRKT","Volume Production","Mouser","859-LTST-C190KRKT","0.1","0.1"
+"","B2B-PH-K(LF)(SN)","Connector Header Through Hole 2 position 0.079"" (2.00mm)","J","CMP-17439-000674-1","New From Design","Up to date","1","JST","B2B-PH-K(LF)(SN)","Volume Production","Mouser","306-B2BPHKLFSN","0.19","0.19"
+"","FS8205","","Q1","","Not managed","","1","","","","","","",""
+"","CRGCQ0402F1K0","CRGCQ0402 1K? 1% ±100ppm/°C 50V","R1, R2, R3","CMP-03211-006314-1","New From Design","Up to date","3","TE Connectivity","CRGCQ0402F1K0","Volume Production","Arrow Electronics","CRGCQ0402F1K0","0.0007","0.007"
+"","RNCP0402FTD100R","100? ±1% 0.1W 0402 High Power Anti-Sulfur Thin Film Chip Resistor","R4","CMP-26527-007295-1","New From Design","Up to date","1","Stackpole Electronics","RNCP0402FTD100R","Volume Production","","","",""
+"","KTR18EZPF1201","Res Thick Film 1206 1.2k? 1% 0.1W ±100ppm/°C Automotive Paper T/R","Rprog","CMP-08839-030444-1","New From Design","Up to date","1","ROHM","KTR18EZPF1201","Volume Production","Newark","KTR18EZPF1201","0.155","1.55"
+"","TP4056","SOP-8 Battery Management ICs ROHS","U1","","Not managed","","1","","","","","","",""
+"","DW01A","battery protection IC","U2","","Not managed","","1","","","","","","",""

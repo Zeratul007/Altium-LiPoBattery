@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\hardware projects\Altium-LiPoBattery\LiPoBattery.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lipobattery-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=lipobattery-slotholes-plated.txt|DrillLayers=gtl,gbl
