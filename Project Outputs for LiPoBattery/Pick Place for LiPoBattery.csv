@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\hardware projects\Altium-LiPoBattery\Project Outputs for LiPoBattery\Pick Place for LiPoBattery.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15.06.26
+Time:       18:26
+Revision:   54392022f32925367a4e80da851d70dced8a1d55
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J2","Battery Header","TopLayer","FP-B2B-PH-K_LF_SN-MFG","5290.630","2000.000","180","Connector Header Through Hole 2 position 0.079" (2.00mm)"
+"C2","10uF","TopLayer","FP-CGA4J-IPC_B","5275.000","2545.000","0","Cap Ceramic 10uF 10V X5R 20% Pad SMD 0805 +85°C Automotive T/R"
+"J1","Micro USB","TopLayer","FCI-10118193-0001LF-5_V","5094.508","2420.000","270","Micro USB B Type Receptacle, -55 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel"
+"C4","100nF","TopLayer","FP-CGA3E-0_3-0_1-IPC_B","5580.000","2115.000","0","Cap Ceramic 100nF 25V X8R 20% Pad SMD 0603 +150°C Automotive T/R"
+"U2","DW01A","TopLayer","SOT95P280X145-6N","5677.962","2337.598","0","battery protection IC"
+"U1","TP4056","TopLayer","SOIC127P600X265-8N","5431.363","2380.812","0","SOP-8 Battery Management ICs ROHS"
+"Rprog","1.2k","TopLayer","FP-MCU0805-MFG","5110.000","2190.000","0","RES 1.05K OHM 0.5% 1/5W 0805"
+"R4","1k","TopLayer","FP-RNCP0402-IPC_A","5560.000","2205.000","180","100? ±1% 0.1W 0402 High Power Anti-Sulfur Thin Film Chip Resistor"
+"R3","1k","TopLayer","FP-CRGCQ0402-IPC_C","5689.813","2435.000","0","CRGCQ0402 1K? 1% ±100ppm/°C 50V"
+"R1","1k","TopLayer","FP-CRGCQ0402-IPC_C","5481.363","2180.812","90","CRGCQ0402 1K? 1% ±100ppm/°C 50V"
+"R2","1k","TopLayer","FP-CRGCQ0402-IPC_C","5406.363","2180.812","90","CRGCQ0402 1K? 1% ±100ppm/°C 50V"
+"Q1","FS8205","TopLayer","SOT95P280X145-6N","5679.813","2540.000","180",""
+"D2","RED","TopLayer","FP-LTST-C190KRKT-MFG","5325.000","2190.000","90","LED RED CLEAR CHIP SMD"
+"D1","GREEN","TopLayer","FP-APHCM2012CGCK-F01-MFG","5240.000","2180.000","90","LED GREEN CLEAR CHIP SMD"
+"C3","100nF","TopLayer","FP-CGA3E-0_3-0_1-IPC_B","5704.813","2205.000","0","Cap Ceramic 100nF 25V X8R 20% Pad SMD 0603 +150°C Automotive T/R"
+"C1","100nF","TopLayer","FP-CGA3E-0_3-0_1-IPC_B","5485.000","2545.000","0","Cap Ceramic 100nF 25V X8R 20% Pad SMD 0603 +150°C Automotive T/R"
